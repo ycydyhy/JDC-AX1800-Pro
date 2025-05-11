@@ -14,5 +14,5 @@
 #sed -i 's/^#\(.*helloworld\)/\1/' feeds.conf.default
 
 # Add a feed source
-git clone https://github.com/linkease/istore package/openwrt-istore
-git clone https://github.com/lwb1978/openwrt-gecoosac package/openwrt-gecoosac
+#git clone https://github.com/linkease/istore package/openwrt-istore
+#git clone https://github.com/lwb1978/openwrt-gecoosac package/openwrt-gecoosac
